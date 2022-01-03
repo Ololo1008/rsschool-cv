@@ -1,8 +1,11 @@
 h1 {
-    color: blue;
+    color: darkblue;
+    font-weight: bold;
+    font-style: italic;
   }
   P {
-    font-size: 20px;     
+    font-size: 20px;  
+    color: blue;   
   }
  .center{width: 1000px; 
     margin: 0px auto 0px auto;
