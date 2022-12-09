@@ -26,4 +26,4 @@
 
 ---
 
-## Languages:  Russian - Native  Anglish - A1 
+## Languages:  * Russian - Native  * Anglish - A1 
